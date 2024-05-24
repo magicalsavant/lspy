@@ -1,5 +1,5 @@
 # lspy
-lspy is a Python 3  script that allows you to list the contents of a directory every 5 seconds in a format that looks very much like ls -la
+lspy is a Python 3  script that allows you to list the contents of a directory every 5 seconds in a format that looks very much like `ls -la` . This is very handy for seeing how file sizes in a directory may be changing or for checking which files have been modified most recently. 
 
 ## Command Line Options
 Output from lspy.py --help
